@@ -51,3 +51,5 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
+print("This is a simple calculator application.")
